@@ -33,5 +33,3 @@ const alumno:Alumno={
     email:'gmail.com',
     materias: ['Ingles']
 }
-
-console.log(alumno);
